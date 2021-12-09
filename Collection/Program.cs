@@ -6,21 +6,70 @@ namespace Collection
     {
         static void Main(string[] args)
         {
-            var names = new string[] { "Dog", "Cat", "Giraffe", "Monkey", "Tortoise" };
+            var shop = new Shop();
 
+            var customer = new Customer("Первый покупатель", shop);
 
+            while (true)
+            {
+                Console.WriteLine();
+                Console.WriteLine("Для ввода нового товара нажмите A.");
+                Console.WriteLine("Для удаления товара нажмите D.");
+                Console.WriteLine("Для выхода из программы нажмите X.");
 
+                var otvet = Console.ReadKey();
+                Console.WriteLine();
 
-            //var shop = new Shop();
+                switch (otvet.KeyChar)
+                {
+                    case 'A':
 
-            //var customer = new Customer("Первый покупатель", shop);
+                        AddNewItemInShop(shop);
+                        break;
+                    case 'D':
+                        RemoveItemInShop(shop);
+                       
+                        break;
+                    case 'X':
+                        break;
+                    default:
+                        Console.WriteLine("Необходимо ввести указанные символы!");
+                        break;
 
+                }
 
-            //shop.Add(0, "первый товар");
+                if (otvet.KeyChar == 'X')
+                {
+                    break;
+                }
 
-            //shop.Remove(0);
-            //shop.Remove(0);
+            }
+
 
         }
+
+        private static void RemoveItemInShop(Shop shop)
+        {
+            Console.WriteLine("Введите индекс товара, который необходимо удалить!");
+            if (int.TryParse(Console.ReadLine(), out int index))
+            {
+                shop.Remove(index);
+            }
+            else
+            {
+                Console.WriteLine("Для удаления товара необхидимо вводить его индекс!");
+                RemoveItemInShop(shop);
+            }
+        }
+
+        private static void AddNewItemInShop(Shop shop)
+        {
+            Console.WriteLine("Введите название товара!");
+            var newnameitemshop = Console.ReadLine();
+
+            shop.Add(newnameitemshop);
+
+        }
+                   
     }
 }

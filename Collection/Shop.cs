@@ -10,12 +10,15 @@ namespace Collection
 {
     public class Shop
     {
+        int currentcount = 0;
+
         public ObservableCollection<Item> _price = new ObservableCollection<Item>();
         
-        public void Add(int index, string name)
+        public void Add(string name)
         {
 
-            var newitemprice = new Item(index, name);
+            var newitemprice = new Item(currentcount++, name);
+
             _price.Add(newitemprice);
 
         }
