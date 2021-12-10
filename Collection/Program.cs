@@ -24,7 +24,8 @@ namespace Collection
                 {
                     case 'A':
 
-                        AddNewItemInShop(shop);
+                        shop.Add();
+                        
                         break;
                     case 'D':
                         RemoveItemInShop(shop);
@@ -62,14 +63,7 @@ namespace Collection
             }
         }
 
-        private static void AddNewItemInShop(Shop shop)
-        {
-            Console.WriteLine("Введите название товара!");
-            var newnameitemshop = Console.ReadLine();
-
-            shop.Add(newnameitemshop);
-
-        }
+        
                    
     }
 }

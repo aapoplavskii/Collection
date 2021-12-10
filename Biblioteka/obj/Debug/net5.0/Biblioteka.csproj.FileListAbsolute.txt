@@ -1,0 +1,16 @@
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.exe
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.deps.json
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.runtimeconfig.json
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.runtimeconfig.dev.json
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.dll
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\ref\Biblioteka.dll
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\bin\Debug\net5.0\Biblioteka.pdb
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.csproj.AssemblyReference.cache
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.AssemblyInfoInputs.cache
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.AssemblyInfo.cs
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.csproj.CoreCompileInputs.cache
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.dll
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\ref\Biblioteka.dll
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.pdb
+C:\WorkC#\DZ\Collection\Collection\Biblioteka\obj\Debug\net5.0\Biblioteka.genruntimeconfig.cache

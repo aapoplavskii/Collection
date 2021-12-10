@@ -14,10 +14,10 @@ namespace Collection
 
         public ObservableCollection<Item> _price = new ObservableCollection<Item>();
         
-        public void Add(string name)
+        public void Add()
         {
 
-            var newitemprice = new Item(currentcount++, name);
+            var newitemprice = new Item(currentcount++);
 
             _price.Add(newitemprice);
 

@@ -1,0 +1,16 @@
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.exe
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.deps.json
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.runtimeconfig.json
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.runtimeconfig.dev.json
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.dll
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\ref\Collection.dll
+C:\WorkC#\DZ\Collection\Collection\Collection\bin\Debug\net5.0\Collection.pdb
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.csproj.AssemblyReference.cache
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.AssemblyInfoInputs.cache
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.AssemblyInfo.cs
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.csproj.CoreCompileInputs.cache
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.dll
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\ref\Collection.dll
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.pdb
+C:\WorkC#\DZ\Collection\Collection\Collection\obj\Debug\net5.0\Collection.genruntimeconfig.cache

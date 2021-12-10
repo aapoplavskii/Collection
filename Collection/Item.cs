@@ -11,10 +11,10 @@ namespace Collection
         public int id { get; }
         public string name { get; }
 
-        public Item(int id, string name)
+        public Item(int id)
         {
             this.id = id;
-            this.name = name;
+            this.name = "Товар от " + DateTime.Now.ToString();
         }
 
         public override string ToString()
