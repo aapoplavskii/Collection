@@ -5,6 +5,10 @@ C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\Immutabl
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.dll
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ref\ImmutableCollection.dll
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.pdb
+<<<<<<< HEAD
+=======
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.csproj.AssemblyReference.cache
+>>>>>>> e5ae7301301e2e75c047595f495394c7db6d477d
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.GeneratedMSBuildEditorConfig.editorconfig
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.AssemblyInfoInputs.cache
 C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.AssemblyInfo.cs
