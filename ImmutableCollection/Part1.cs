@@ -14,14 +14,14 @@ namespace ImmutableCollection
         string _part;
         public Part1(string part)
         {
-            _part = part;   
-            ImmutableList<string> poem = ImmutableList.Create<string>();         
+            _part = part;
+            ImmutableList<string> poem = ImmutableList.Create<string>();
         }
 
         public ImmutableList<string> AddPart(ImmutableList<string> previouslist)
         {
             return Poem = previouslist.Add(_part);
-                
+
         }
     }
 }

@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Collection.csproj", "{5F1B8B98-AC27-466F-A9B9-C43416230AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka", "Biblioteka\Biblioteka.csproj", "{FD2693D6-3088-4B3D-BD86-184261CBD014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteka", "Biblioteka\Biblioteka.csproj", "{FD2693D6-3088-4B3D-BD86-184261CBD014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableCollection", "ImmutableCollection\ImmutableCollection.csproj", "{28D3546C-74AE-4CCD-83F3-FA351A9AC2D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FD2693D6-3088-4B3D-BD86-184261CBD014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2693D6-3088-4B3D-BD86-184261CBD014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2693D6-3088-4B3D-BD86-184261CBD014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D3546C-74AE-4CCD-83F3-FA351A9AC2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D3546C-74AE-4CCD-83F3-FA351A9AC2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D3546C-74AE-4CCD-83F3-FA351A9AC2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D3546C-74AE-4CCD-83F3-FA351A9AC2D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

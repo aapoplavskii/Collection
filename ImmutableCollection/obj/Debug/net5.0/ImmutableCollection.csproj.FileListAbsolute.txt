@@ -1,0 +1,15 @@
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.exe
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.deps.json
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.runtimeconfig.json
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.runtimeconfig.dev.json
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.dll
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ref\ImmutableCollection.dll
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\bin\Debug\net5.0\ImmutableCollection.pdb
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.AssemblyInfoInputs.cache
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.AssemblyInfo.cs
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.csproj.CoreCompileInputs.cache
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.dll
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ref\ImmutableCollection.dll
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.pdb
+C:\WorkC#\DZ\Collection\Collection\ImmutableCollection\obj\Debug\net5.0\ImmutableCollection.genruntimeconfig.cache

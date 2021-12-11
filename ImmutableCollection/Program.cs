@@ -19,7 +19,7 @@ namespace ImmutableCollection
             {
                 Console.WriteLine(part);
             }
-            
+
             Console.WriteLine("");
 
             Console.WriteLine("Первый - второй абзац:");
@@ -30,7 +30,7 @@ namespace ImmutableCollection
             }
 
             Console.WriteLine("");
-            
+
 
 
 
